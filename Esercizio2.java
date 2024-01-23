@@ -10,8 +10,8 @@ import javafx.stage.Stage;
 
 public class triangoloEquilatero extends Application {
 
-	Label lAlejandro=new Label("Alejandro romero ordonez sei bellissimo, baciamoci");
-	Label lmaialino=new Label("Menichetti miaialino polacco")
+	Label lAlejandro=new Label("sfgjhkjhkwefrtjhuwer");
+	Label lmaialino=new Label("Menwerwerwerkbhwerweruuiwercco")
 	TextField tLato=new TextField();
 	 TextField tAltezza= new TextField();
 	 Label lRisultato=new Label();
